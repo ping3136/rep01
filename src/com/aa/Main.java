@@ -12,7 +12,7 @@ public class Main {
 		System.out.println("44444454aaa");
 		
 		System.out.println("44444454aaa_release modify01");
-		System.out.println("44444454aaa_release01 modify02");
+		System.out.println("44444454aaaa_release01 modify02");
 
 	}
 	
